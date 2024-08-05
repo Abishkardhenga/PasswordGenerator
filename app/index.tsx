@@ -87,7 +87,7 @@ export default function App() {
                     style={styles.inputStyle}
                     value={values.passwordLength}
                     onChangeText={handleChange('passwordLength')}
-                    placeholder="Ex. 8"
+                    placeholder="Eg:10"
                     keyboardType='numeric'
                   />
                 </View>
